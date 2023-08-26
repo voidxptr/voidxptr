@@ -2,9 +2,13 @@
 
 I'm a game and software developement hobbyist.
 I programm in mostly in C++ and GDScript even though I have learned multible other languages like:
+    
     - Rust
+    
     - Python
+    
     - Swift
+    
     - Lua
 
 Recently I got an obsession with making useless shader and post processing effects.
