@@ -1,16 +1,18 @@
-### Hi there 👋
+## void_ptr
 
-<!--
-**voidxptr/voidxptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a game and software developement hobbyist.
+I programm in mostly in C++ and GDScript even though I have learned multible other languages like:
+    - Rust
+    - Python
+    - Swift
+    - Lua
 
-Here are some ideas to get you started:
+Recently I got an obsession with making useless shader and post processing effects.
+You can find all the public ones in voidxptr/shaders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Keep in mind I'm still learning its not the best code, but I hope its not as bad as YandereDev.
+
+If you want to contect me:
+  Discord:  @void._.ptr
+  E-Mail:   void.o.ptr@gmail.com
+  Twitter   @0xab7a3ffab8
