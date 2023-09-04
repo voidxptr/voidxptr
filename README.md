@@ -19,6 +19,9 @@ My goal currently is to commit atleast once a day.
 Keep in mind I'm still learning its not the best code, but I hope its not as bad as YandereDev.
 
 If you want to contect me:
-  Discord:  @void._.ptr
-  E-Mail:   void.o.ptr@gmail.com
-  Twitter   @0xab7a3ffab8
+
+      Discord:  @void._.ptr
+  
+      E-Mail:   void.o.ptr@gmail.com
+  
+      Twitter   @0xab7a3ffab8
