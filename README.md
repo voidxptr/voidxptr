@@ -1,9 +1,10 @@
 ## void_ptr
 
 I'm a game and software developement hobbyist.
-I programm in mostly in C++ and GDScript even though I have learned multible other languages like:
+I programm in mostly in C and GDScript even though I have learned multible other languages like:
     
     - Rust
+    - C
     - C++
     - Python
     - GDScript
